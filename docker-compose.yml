@@ -1,0 +1,13 @@
+services:
+  webapp:
+    tty: true
+    build: .
+    ports:
+      - "8080:4567"
+    volumes:
+      - type: bind
+        source: ./target
+        target: /target
+    network_mode: host
+volumes:
+  webapp:

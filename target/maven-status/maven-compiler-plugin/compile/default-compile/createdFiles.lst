@@ -1,0 +1,13 @@
+com/minitwit/dao/MessageDao.class
+com/minitwit/util/PasswordUtil.class
+com/minitwit/dao/impl/UserDaoImpl.class
+com/minitwit/dao/impl/MessageDaoImpl.class
+com/minitwit/util/GravatarUtil.class
+com/minitwit/dao/UserDao.class
+com/minitwit/service/impl/MiniTwitService.class
+com/minitwit/model/LoginResult.class
+com/minitwit/App.class
+com/minitwit/model/Message.class
+com/minitwit/config/WebConfig.class
+com/minitwit/config/DatabaseConfig.class
+com/minitwit/model/User.class

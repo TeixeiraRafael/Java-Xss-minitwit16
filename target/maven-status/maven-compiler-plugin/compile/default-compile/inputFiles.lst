@@ -1,0 +1,13 @@
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/model/Message.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/util/PasswordUtil.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/dao/MessageDao.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/App.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/model/LoginResult.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/service/impl/MiniTwitService.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/config/WebConfig.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/config/DatabaseConfig.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/dao/impl/UserDaoImpl.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/util/GravatarUtil.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/dao/UserDao.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/dao/impl/MessageDaoImpl.java
+/home/rafael/Workspace/defensepoint/mend/sast-evaluation/Projects/whitesource-testcases-java/RemediationProjects/Java-Xss-minitwit16/src/main/java/com/minitwit/model/User.java
